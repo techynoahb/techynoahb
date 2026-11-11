@@ -13,7 +13,7 @@
 <h3 align="center">About me</h3>
 
 <p align="center">
-  In my free time I like hanging out with family, gaming, and watching new anime and TV shows.
+  In my free time I like learning new technologies, gaming, lifting weights and watching new anime and TV shows.
 </p>
 
 <p align="center">
