@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  I build full-stack web apps and Python tools.
+  I like to build web apps, and python tools
 </p>
 
 <p align="center">
