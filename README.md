@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,c,html,css,react,nodejs,express,fastapi,mongodb,sqlite,docker,git,githubactions&perline=9" alt="Python, C++, JavaScript, TypeScript, C, HTML, CSS, React, Node.js, Express, FastAPI, MongoDB, SQLite, Git, GitHub Actions, Docker" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,ts, js html,css,react,nodejs,express,fastapi,mongodb,sqlite,docker,git,githubactions&perline=9" alt="Python, C++, JavaScript, TypeScript, C, HTML, CSS, React, Node.js, Express, FastAPI, MongoDB, SQLite, Git, GitHub Actions, Docker" />
 </p>
 
 <h3 align="center">About me</h3>
