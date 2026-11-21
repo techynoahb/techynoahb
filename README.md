@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=5FD3A6&center=true&vCenter=true&width=520&lines=Hi%2C+I%27m+Noah+Bush;Full-stack+developer;Python+%C2%B7+React+%C2%B7+MCP" alt="Hi, I'm Noah Bush" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=5FD3A6&center=true&vCenter=true&width=520&lines=Hi%2C+I%27m+Noah+Bush" alt="Hi, I'm Noah Bush" />
 </p>
 
 <p align="center">
